@@ -67,8 +67,8 @@ theme: landscape
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: gitcafe
-  repository: https://gitcafe.com/morecho/morecho.git
+  type: github
+  repository: git@gitcafe.com:morecho/morecho.git
   branch: gitcafe-pages
 
 
